@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:bottom="1dp">
+        <shape android:shape="rectangle">
+            <size android:height="1dp"/>
+            <solid android:color="#FFD700"/> <!-- Gold underline -->
+        </shape>
+    </item>
+</layer-list>

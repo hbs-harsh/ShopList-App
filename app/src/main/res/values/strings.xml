@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">shopping_app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_fruit_name">Fruit</string>
+    <string name="default_vegetable_name">Vegetable</string>
+    <string name="default_nutrition_info">Nutrition information not available</string>
+    <string name="default_storage_tips">Store in cool, dry place</string>
+
+    <string name="apple_nutrition">Calories: 95\nFiber: 4g\nVitamin C: 14%</string>
+    <string name="banana_nutrition">Calories: 105\nPotassium: 12%\nVitamin B6: 20%</string>
+    <string name="carrot_storage">Store in fridge in perforated bag\nLasts 4-5 weeks</string>
+    <string name="tomato_storage">Store at room temperature\nAvoid refrigeration</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="dont_have_account">Don\'t have an account? <b><font color="#FF6200EE">Sign up now</font></b></string>
+    <string name="app_logo">App Logo</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fruit_background">#FFF8F1</color>  <!-- Light orange -->
+    <color name="vegetable_background">#F1FFF5</color>  <!-- Light green -->
+    <color name="dairy_background">#F1F9FF</color>  <!-- Light blue -->
+    <color name="default_product_background">#FFFFFF</color>
+    <color name="price_color">#4CAF50</color> <!-- Green color for price -->
+    <color name="onSurface">#1C1B1F</color>
+    <color name="onSurfaceVariant">#49454F</color>
+    <color name="surfaceContainerLow">#F7F2FA</color>
+    <color name="primary">#FF6B6B</color> <!-- Coral -->
+    <color name="on_surface">#333333</color> <!-- Dark text -->
+    <color name="outline">#888888</color> <!-- Subtle hint -->
+    <color name="price_green">#4CAF50</color>  <!-- Green color for price -->
+    <color name="primary_color">#FF5722</color>
+
+    <color name="red">#FFFF0000</color>
+    <color name="colorPrimary">#6200EE</color><!-- Your theme color -->
+</resources>
